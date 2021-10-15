@@ -12,4 +12,5 @@
 
 # Dashboard
 
-![alt text](https://github.com/[nseah1]/[CIA-Factbook-Data-Dashboard]/blob/[main]/image.jpg?raw=true)
+![GitHub Logo](/images/Dashboard 1.0.jpg)
+Format: ![Data Dashboard](url)
