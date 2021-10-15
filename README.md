@@ -10,5 +10,7 @@
 ## The data was extracted from the Factbook Database using SQL and the Charts and Data Dashboard was created using Tableau
 
 
-# Dashboard
+# CIA Factbook Dashboard
 
+
+![CIA Factbook Dashboard](Dashboard1.0.jpg)
