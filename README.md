@@ -8,3 +8,8 @@
   4) Which countries/territories have the highest water to total area ratio?
 
 ## The data was extracted from the Factbook Database using SQL and the Charts and Data Dashboard was created using Tableau
+
+
+# Dashboard
+
+![alt text](https://github.com/[nseah1]/[CIA-Factbook-Data-Dashboard]/blob/[main]/image.jpg?raw=true)
