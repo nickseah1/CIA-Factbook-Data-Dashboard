@@ -7,4 +7,4 @@
   3) Which countries/territories have the most people dying and leaving?
   4) Which countries/territories have the highest water to total area ratio?
 
-# The data was extracted from the Factbook Database using SQL and the Charts and Data Dashboard was created using Tableau
+## The data was extracted from the Factbook Database using SQL and the Charts and Data Dashboard was created using Tableau
