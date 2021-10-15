@@ -12,5 +12,3 @@
 
 # Dashboard
 
-![GitHub Logo](/images/Dashboard 1.0.jpg)
-Format: ![Data Dashboard](url)
