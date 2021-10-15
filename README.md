@@ -13,4 +13,4 @@
 # CIA Factbook Dashboard
 
 
-![CIA Factbook Dashboard](Dashboard 1.0.jpg)
+![CIA Factbook Dashboard](FactbookDashboard.png)
