@@ -1,5 +1,3 @@
-# CIA-Factbook-Data-Dashboard
-
 ## This is a Data Dashboard answering the following questions using the CIA Factbook Database.
 
   1) Which country/territory is growing at the highest rate?
